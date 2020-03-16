@@ -1,0 +1,18 @@
+{
+	"pages": [{
+		"path": "pages/home/index",
+		"style": {
+			"navigationBarTitleText": "uni-ui基础项目"
+		}
+	},
+	{
+		"path": "pages/second/index",
+		"name":"second",
+		"style": {
+			"navigationBarTitleText": "uni-ui基础项目"
+		}
+	}],
+	"globalStyle": {
+		"navigationStyle": "custom"
+	}
+}
